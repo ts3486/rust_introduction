@@ -3,4 +3,20 @@ name = "rust_introduction"
 version = "0.1.0"
 edition = "2024"
 
+[[bin]]
+name = "hello_world"
+path = "src/hello_world.rs"
+
+[[bin]]
+name = "primitives"
+path = "src/primitives.rs"
+
+[[bin]]
+name = "functions"
+path = "src/functions.rs"
+
+[[bin]]
+name = "ownership"
+path = "src/ownership.rs"
+
 [dependencies]
