@@ -19,4 +19,20 @@ path = "src/functions.rs"
 name = "ownership"
 path = "src/ownership.rs"
 
+[[bin]]
+name = "struct"
+path = "src/struct.rs"
+
+[[bin]]
+name = "enums"
+path = "src/enums.rs"
+
+[[bin]]
+name = "trait"
+path = "src/trait.rs"
+
+[[bin]]
+name = "lifetime"
+path = "src/lifetime.rs"
+
 [dependencies]
